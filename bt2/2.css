@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  height: 100vh;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  display: grid;
+  place-items: center;
+  background-color: #d4b687;
+}
+.background {
+  background-image: url(https://i.pinimg.com/736x/c6/c3/da/c6c3da9f0286a599d76ca6808aee81f4.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 90vh;
+  width: 50%;
+}
+h2 {
+  color: yellow;
+}
+p {
+  text-align: left;
+  gap: 10px;
+  margin-left: 10px;
+}

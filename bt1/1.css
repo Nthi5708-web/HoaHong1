@@ -1,0 +1,33 @@
+body {
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: green;
+}
+h3 {
+  color: blue;
+}
+h2 {
+  text-align: center;
+  background-color: pink;
+  color: rgb(179, 50, 129);
+}
+.vb {
+  text-align: center;
+  color: blue;
+}
+.vb1 {
+  text-align: center;
+  color: brown;
+}
+.vb2 {
+  text-align: center;
+  color: green;
+}
+.color {
+  background-color: rgb(218, 230, 152);
+}
+hr {
+  width: 200px;
+}
